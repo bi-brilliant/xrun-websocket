@@ -1,3 +1,5 @@
+Websocket is Updating a value or display, without having to refresh the web page or application. Websocket is not only for websites, but can also be used on desktops or mobile applications. So in the gateway/php or xrunrnapp system when new data comes in such as making a transfer, the wallet balance data will automatically increase or decrease. Without us having to refresh the application. This websocket is two-way or full duplex. Using a websocket website does not have to use SSL, but it would be better if the website uses SSL to be more secure from request or response tapping. The code for http is `ws://example.com/socket` while for https is `wss://example.com/socket`. Websocket can be used in several applications such as chat applications, online games, financial applications, and the internet of things (IoT)
+
 # Getting Started
 
 For running the sample websocket project
